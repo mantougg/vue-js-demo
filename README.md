@@ -1,6 +1,9 @@
 # vue-js-demo
 
+使用 vue + JavaScript 通过GitHub-Actions进行发布
+
 ## Project setup
+
 ```
 yarn install
 ```
